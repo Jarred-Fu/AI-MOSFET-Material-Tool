@@ -3,8 +3,8 @@
 This repository contains the code and materials associated with the research paper:
 
 **"AI Enhanced 3D Graph Selection Tool for Learning MOSFET Material Screening"**  
-Presented at *IEEE Conference*, 2024.  
-Author: **Jerry Fu**
+Presented at *IEEE Conference*, 2025.  
+Author: **Yiyang Fu, Fage Liu, Zhengyao He, Qianrui Lin, Tee Hui Teo**
 
 ---
 
@@ -59,7 +59,7 @@ If you use this code in your research, please cite the following:
 
 ```bibtex
 @inproceedings{fu2024graphselection,
-  author    = {Jerry Fu},
+  author    = {Yiyang Fu, Fage Liu, Zhengyao He, Qianrui Lin, Tee Hui Teo},
   title     = {AI Enhanced 3D Graph Selection Tool for Learning MOSFET Material Screening},
   booktitle = {Proceedings of the IEEE Conference},
   year      = {2024}

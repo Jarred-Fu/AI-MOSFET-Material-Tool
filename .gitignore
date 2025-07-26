@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment folders
+venv/
+.env/
+.env.*
+
+# VSCode or PyCharm settings (if applicable)
+.vscode/
+.idea/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.npy
+*.npz
+*.pkl
+*.db
+
+# Logs and cache
+*.log
+*.cache/
